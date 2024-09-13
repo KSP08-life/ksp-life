@@ -84,7 +84,7 @@ header .message {
 .quotes blockquote::after {
   content: "💖";
   position: absolute;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   color: #ff1493;
 }
 
